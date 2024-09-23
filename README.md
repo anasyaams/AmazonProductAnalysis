@@ -23,3 +23,11 @@ The dataset contains various information about products sold on Amazon, includin
     - Predict product ratings using Linear Regression based on features
 13. Classification Tasks
     - Classify products into different categories (e.g., best seller, Amazon's Choice) using Random Forest classification
+
+![image](https://github.com/user-attachments/assets/4a3a3594-e623-49db-9dc0-03cafbc70e4c)
+
+![image](https://github.com/user-attachments/assets/053cdf4e-a7b0-47ed-99d3-d8d215342be7)
+
+![image](https://github.com/user-attachments/assets/30aa6e8f-b831-4459-96c1-692be1735b1f)
+
+
